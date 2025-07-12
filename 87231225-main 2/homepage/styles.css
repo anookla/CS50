@@ -1,0 +1,64 @@
+/* .welcome-label {
+    margin: 15px;
+    font-weight: bolder;
+} */
+
+
+p {
+    color:red;
+    background-color: grey;
+}
+
+#current-trend {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+
+p.center{
+    text-align: center;
+}
+
+div p {
+    color: pink;
+}
+
+p > small {
+    color: maroon;
+}
+
+p + blockquote {
+    color: blue;
+}
+
+h3 ~ a {
+   color: red;
+}
+
+/* unvisited link */
+a:link {
+    color: purple;
+  }
+
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: blue;
+  }
+
+  /* selected link */
+  a:active {
+    color: red;
+
+  }

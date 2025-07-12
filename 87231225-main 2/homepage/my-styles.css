@@ -1,0 +1,8 @@
+pre {
+    color: green;
+}
+
+a.test:hover {
+    color: brown;
+}
+

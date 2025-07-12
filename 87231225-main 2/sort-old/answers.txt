@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: on sorted50000 file this sort takes shortest time when compared to sort 3
+
+sort2 uses: Merge sort
+
+How do you know?: This sort takes shortest time on random10000 file when compared to others.
+
+sort3 uses: Selection sort
+
+How do you know?: this one takes long time even sorted50000 indicating that this is selection sort as it needs to go throught all the set to compare even if the set is already sorted.
